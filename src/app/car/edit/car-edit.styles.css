@@ -1,0 +1,36 @@
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input[type=text], kendo-dropdownlist, textarea { 
+    width: 100%; 
+}
+        
+.add-edit-form { 
+    border: 1px solid #ff6458;
+    border-radius: 5px;
+    padding: 25px;
+    width: 550px; 
+    margin: auto;
+}
+
+.form-group { 
+    padding-top: 20px;
+}
+
+.add-edit-form-buttons { 
+    text-align: right;
+    padding-top: 30px;
+}
+
+.label-container {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.required label:after {
+    color: red;
+    content:" *";
+}
+
