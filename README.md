@@ -29,12 +29,22 @@ Install the following dependencies
 
 `npm install --save @progress/kendo-angular-grid`
 
+  
+
 `npm install --save @progress/kendo-data-query`
 
+
+  
 `npm install --save @progress/kendo-angular-intl`
 
+
+  
 `npm install --save @progress/kendo-angular-l10n`
 
+
+  
 `npm install --save @progress/kendo-angular-dialog`
 
+
+  
 `npm install --save @progress/kendo-angular-dropdowns`
